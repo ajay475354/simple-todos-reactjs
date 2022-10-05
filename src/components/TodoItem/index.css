@@ -1,0 +1,22 @@
+.item-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.button {
+  background-color: #ffffff;
+  color: #ff0b37;
+  font-size: 10px;
+  font-family: 'Roboto';
+  margin: 5px;
+  border-radius: 10px;
+  cursor: pointer;
+  outline: none;
+}
+
+.todo-names {
+  color: #000000;
+  font-family: 'Roboto';
+  font-size: 15px;
+}
